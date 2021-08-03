@@ -17,6 +17,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Distribution   |               |                              |
 | Private use    |               |                              |
 
+[wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+
 ---
 
 ## BSD 2-Clause "Simplified" License
@@ -30,6 +32,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Distribution   |               |                              |
 | Private use    |               |                              |
 
+[wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+
 ---
 
 ## BSD 3-Clause "New" or "Revised" License
@@ -42,6 +46,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Modification   | Warranty      |                              |
 | Distribution   |               |                              |
 | Private use    |               |                              |
+
+[wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
 
 ---
 
@@ -57,6 +63,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Patent use     |               |                              |
 | Private use    |               |                              |
 
+[wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+
 ---
 
 ## GNU General Public License v2.0
@@ -69,6 +77,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Modification   | Warranty      | State changes                |
 | Distribution   |               | Disclose source              |
 | Private use    |               | Same license                 |
+
+[wikipedia](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 
 ---
 
@@ -84,6 +94,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Patent use     |               | Same license                 |
 | Private use    |               |                              |
 
+[wikipedia](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+
 ---
 
 ## Creative Commons Zero v1.0 Universal
@@ -97,18 +109,7 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Distribution   | Patent use    |                              |
 | Private use    | Warranty      |                              |
 
----
-
-## The Unlicense
-
-> A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code.
-
-| Permissions    | Limitations   | Conditions                   |
-| -------------- | ------------- | ---------------------------- |
-| Private use    | Liability     |                              |
-| Commercial use | Warranty      |                              |
-| Modification   |               |                              |
-| Distribution   |               |                              |
+[wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
 
 ---
 
@@ -122,6 +123,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Distribution   | Warranty      | License and copyright notice |
 | Patent use     |               | Same license                 |
 | Private use    |               |                              |
+
+[wikipedia](https://en.wikipedia.org/wiki/Eclipse_Public_License)
 
 ---
 
@@ -137,6 +140,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Patent use     |               |                              |
 | Private use    |               |                              |
 
+[wikipedia](https://en.wikipedia.org/wiki/Mozilla_Public_License)
+
 ---
 
 ## Boost Software License 1.0
@@ -149,6 +154,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Modification   | Warranty      |                              |
 | Distribution   |               |                              |
 | Private use    |               |                              |
+
+[wikipedia](https://en.wikipedia.org/wiki/Boost_(C%2B%2B_libraries))
 
 ---
 
@@ -163,6 +170,8 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Distribution   |               | State changes                |
 | Private use    |               | Same license (library)       |
 
+[wikipedia](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License)
+
 ---
 
 ## GNU Affero General Public License v3.0
@@ -176,3 +185,20 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 | Distribution   |               | Disclose source              |
 | Patent use     |               | Network use is distribution  |
 | Private use    |               | Same license                 |
+
+[wikipedia](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License)
+
+---
+
+## The Unlicense
+
+> A license with no conditions whatsoever which dedicates works to the public domain. Unlicensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+| Permissions    | Limitations   | Conditions                   |
+| -------------- | ------------- | ---------------------------- |
+| Private use    | Liability     |                              |
+| Commercial use | Warranty      |                              |
+| Modification   |               |                              |
+| Distribution   |               |                              |
+
+[wikipedia](https://en.wikipedia.org/wiki/Unlicense)
