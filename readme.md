@@ -8,9 +8,7 @@ This is not legal advice. [Learn more about repository licenses](https://docs.gi
 
 ## MIT License
 
-`
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-`
+> A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 | Permissions    | Limitations   | Conditions                   |
 | -------------- | ------------- | ---------------------------- |
@@ -23,9 +21,7 @@ A short and simple permissive license with conditions only requiring preservatio
 
 ## BSD 2-Clause "Simplified" License
 
-```txt
-A permissive license that comes in two variants, the BSD 2-Clause and BSD 3-Clause. Both have very minute differences to the MIT license.
-```
+> A permissive license that comes in two variants, the BSD 2-Clause and BSD 3-Clause. Both have very minute differences to the MIT license.
 
 | Permissions    | Limitations   | Conditions                   |
 | -------------- | ------------- | ---------------------------- |
